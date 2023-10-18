@@ -19,7 +19,6 @@ backcall==0.2.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
 blinker==1.6.3
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
 Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1693583518054/work
 cachetools==5.3.1
 certifi==2023.7.22
